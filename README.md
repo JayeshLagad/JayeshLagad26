@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JayeshLagad
-- 👀 I’m interested in Programming languages and its logic.
+- 👀 I’m interested to learn new things and always being active in them.
 - 🌱 I’m currently learning FullStack development in Java.
 - 📫 You can reach on Instagram @jayeshlagad.
 
