@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayeshLagad
 - 👀 I’m interested to learn new things and always being active in them.
-- 🌱 I’m currently learning FullStack development in Java.
+- 🌱 I’m currently working as a SQL Developer for Vyankatesh Software Solutions in Pune.
 - 📫 You can reach on Instagram @jayeshlagad.
 
 <!---
